@@ -1,0 +1,25 @@
+{
+    "python.terminal.useEnvFile": true,
+    "pgsql.connections": [
+        {
+            "id": "C7AF369D-F715-405B-BAA2-FEF403282636",
+            "groupId": "0B5F81E2-2CEA-42E2-9DB6-357B84C2783B",
+            "authenticationType": "SqlLogin",
+            "connectTimeout": 15,
+            "applicationName": "vscode-pgsql",
+            "clientEncoding": "utf8",
+            "sslmode": "require",
+            "savePassword": true,
+            "sslRootCertMode": "none",
+            "server": "ep-rapid-mode-be5hqcwd-pooler.c-9.us-east-2.aws.neon.tech",
+            "user": "neondb_owner",
+            "port": "",
+            "database": "neondb",
+            "password": "",
+            "profileName": "ep-rapid-mode-be5hqcwd-pooler.c-9.us-east-2.aws.neon.tech, neondb (neondb_owner)",
+            "sshPassword": "",
+            "profileOrigin": "parameters",
+            "expiresOn": 0
+        }
+    ]
+}

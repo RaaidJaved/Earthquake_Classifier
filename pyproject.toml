@@ -1,0 +1,9 @@
+[project]
+name = "earthquake-classifier-pipeline"
+version = "1.0.0"
+description = "Automated Earthquake Classifier ETL & Dynamic EDA Pipeline"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.vercel]
+entrypoint = "main.py"
